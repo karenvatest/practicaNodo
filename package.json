@@ -1,16 +1,23 @@
 {
+<<<<<<< HEAD
   "name": "mi-monorepo",
   "private": true,
   "workspaces": [
     "apps/*",
     "packages/*"
   ],
+=======
+  "name": "nodo",
+>>>>>>> 2bfe709d99f843c0eb0195479eef5ca0ce74c9d1
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "keywords": [],
+=======
+>>>>>>> 2bfe709d99f843c0eb0195479eef5ca0ce74c9d1
   "author": "",
   "license": "ISC",
   "description": ""
